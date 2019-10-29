@@ -1,0 +1,11 @@
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\bin\Debug\Mims_ChristyExercises3-1.exe.config
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\bin\Debug\Mims_ChristyExercises3-1.exe
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\bin\Debug\Mims_ChristyExercises3-1.pdb
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\bin\Debug\Mims_ChristyExercises3-1.xml
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3-1.vbprojResolveAssemblyReference.cache
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3_1.Form1.resources
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3_1.Resources.resources
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3-1.vbproj.GenerateResource.Cache
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3-1.exe
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3-1.xml
+F:\vbp\Mims_ChristyExercises3-1\Mims_ChristyExercises3-1\obj\Debug\Mims_ChristyExercises3-1.pdb
